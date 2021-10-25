@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Crazyy#4634 (Discord)**
+- 📫 How to reach me **Crazyy#1281 (Discord)**
 
 - ⚡ Fun fact **I think I'm bad at Minecraft**
 
