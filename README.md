@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crazyy <3</h1>
 <h3 align="center">I'm a Discord Bot Developer and a starter at Unity Game Developing</h3>
 
-- 🔭 I’m currently working on **CraziiBot**
+- 🔭 I’m currently working on **Nuela - The real definition of Multipurpose, Featuring many advanced features like music, afk, todo lists, reminders, suggestions etc...**
 
 - 🌱 I’m currently learning **Js**
 
