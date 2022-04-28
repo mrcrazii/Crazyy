@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Js, C#, HTML and CSS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **Crazyy#1281 (Discord)**
+- 📫 How to reach me **baddcision.#9087 (Discord)**
 
 - ⚡ Fun fact **I think I'm bad at Minecraft**
 
